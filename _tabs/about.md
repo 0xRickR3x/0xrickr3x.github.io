@@ -21,8 +21,8 @@ Este espacio es mi bitácora digital donde comparto experiencias, tutoriales y r
 ## 📬 Contacto
 Si quieres colaborar o simplemente saludar, puedes encontrarme en:
 
-- 📧 **Email:** tuemail@ejemplo.com
-- 📂 [GitHub](https://github.com/0xR1ckR3x)  
+- 📧 **Email:** ricardo.alvarez.pentester@gmail.com
+- 📂 [GitHub](https://github.com/0xRickR3x)  
 
 ---
 
