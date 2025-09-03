@@ -3,6 +3,8 @@
 title: '# whoami'
 icon: fas fa-info-circle
 order: 4
+layout: page
+permalink: /about/
 ---
 
 # 👋 Hola, soy Ricardo Álvarez
